@@ -1,0 +1,6 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@expo/webpack-config": "^19.0.1"
+  }
+}
